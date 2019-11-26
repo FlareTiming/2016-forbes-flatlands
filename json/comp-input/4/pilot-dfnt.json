@@ -1,0 +1,90 @@
+[
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0.3313330032698052,
+        "awardedMade": "121.800000 km",
+        "awardedTask": "367.606000 km"
+      },
+      "flown": {
+        "awardedFrac": 0.3313330032698052,
+        "awardedMade": "121.800000 km",
+        "awardedTask": "367.606000 km"
+      }
+    },
+    "pilot": [
+      "14",
+      "Akiko Suzuki"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2016-01-07T02:07:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "367.606000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "367.606000 km"
+      }
+    },
+    "pilot": [
+      "24",
+      "Michael Hogan"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "367.606000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "367.606000 km"
+      }
+    },
+    "pilot": [
+      "23",
+      "Steve Hogan"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "367.606000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "367.606000 km"
+      }
+    },
+    "pilot": [
+      "53",
+      "Stuart Cathcart"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  }
+]

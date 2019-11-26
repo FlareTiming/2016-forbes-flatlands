@@ -1,0 +1,46 @@
+[
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "170.728000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "170.728000 km"
+      }
+    },
+    "pilot": [
+      "16",
+      "Michael Williams"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "170.728000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "170.728000 km"
+      }
+    },
+    "pilot": [
+      "23",
+      "Steve Hogan"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  }
+]

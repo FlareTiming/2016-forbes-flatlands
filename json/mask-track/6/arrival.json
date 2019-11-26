@@ -1,0 +1,362 @@
+[
+  [
+    [
+      "46",
+      "Steve Blenkinsop"
+    ],
+    {
+      "frac": 1,
+      "rank": "1"
+    }
+  ],
+  [
+    [
+      "52",
+      "Len Paton"
+    ],
+    {
+      "frac": 0.94055202,
+      "rank": "2"
+    }
+  ],
+  [
+    [
+      "31",
+      "Gavin Myers"
+    ],
+    {
+      "frac": 0.88415381,
+      "rank": "3"
+    }
+  ],
+  [
+    [
+      "6",
+      "Jason Kath"
+    ],
+    {
+      "frac": 0.83072396,
+      "rank": "4"
+    }
+  ],
+  [
+    [
+      "37",
+      "Andrew Barnes"
+    ],
+    {
+      "frac": 0.78018107,
+      "rank": "5"
+    }
+  ],
+  [
+    [
+      "49",
+      "Oyvind Ellefsen"
+    ],
+    {
+      "frac": 0.73244374,
+      "rank": "6"
+    }
+  ],
+  [
+    [
+      "4",
+      "Rohan Taylor"
+    ],
+    {
+      "frac": 0.68743056,
+      "rank": "7"
+    }
+  ],
+  [
+    [
+      "55",
+      "Simon West"
+    ],
+    {
+      "frac": 0.64506012,
+      "rank": "8"
+    }
+  ],
+  [
+    [
+      "32",
+      "Jon Durand Snr"
+    ],
+    {
+      "frac": 0.60525103,
+      "rank": "9"
+    }
+  ],
+  [
+    [
+      "47",
+      "Olav Opsanger"
+    ],
+    {
+      "frac": 0.56792188,
+      "rank": "10"
+    }
+  ],
+  [
+    [
+      "28",
+      "Glen Mcfarlane"
+    ],
+    {
+      "frac": 0.53299126,
+      "rank": "11"
+    }
+  ],
+  [
+    [
+      "29",
+      "Jonny Durand"
+    ],
+    {
+      "frac": 0.50037776,
+      "rank": "12"
+    }
+  ],
+  [
+    [
+      "1",
+      "Fredy Bircher"
+    ],
+    {
+      "frac": 0.47,
+      "rank": "13"
+    }
+  ],
+  [
+    [
+      "51",
+      "Michael Jackson"
+    ],
+    {
+      "frac": 0.44177656,
+      "rank": "14"
+    }
+  ],
+  [
+    [
+      "48",
+      "Olav Lien Olsen"
+    ],
+    {
+      "frac": 0.41562603,
+      "rank": "15"
+    }
+  ],
+  [
+    [
+      "54",
+      "Josh Woods"
+    ],
+    {
+      "frac": 0.39146701,
+      "rank": "16"
+    }
+  ],
+  [
+    [
+      "19",
+      "Federico Martini"
+    ],
+    {
+      "frac": 0.36921811,
+      "rank": "17"
+    }
+  ],
+  [
+    [
+      "17",
+      "Tullio Gervasoni"
+    ],
+    {
+      "frac": 0.3487979,
+      "rank": "18"
+    }
+  ],
+  [
+    [
+      "8",
+      "Gordon Rigg"
+    ],
+    {
+      "frac": 0.330125,
+      "rank": "19"
+    }
+  ],
+  [
+    [
+      "34",
+      "Phil Schroder"
+    ],
+    {
+      "frac": 0.31311799,
+      "rank": "20"
+    }
+  ],
+  [
+    [
+      "22",
+      "Lukas Bader"
+    ],
+    {
+      "frac": 0.29769547,
+      "rank": "21"
+    }
+  ],
+  [
+    [
+      "13",
+      "Yasuhiro Noma"
+    ],
+    {
+      "frac": 0.28377604,
+      "rank": "22"
+    }
+  ],
+  [
+    [
+      "25",
+      "Gary Wright"
+    ],
+    {
+      "frac": 0.27127829,
+      "rank": "23"
+    }
+  ],
+  [
+    [
+      "2",
+      "Malcolm Brown"
+    ],
+    {
+      "frac": 0.26012082,
+      "rank": "24"
+    }
+  ],
+  [
+    [
+      "7",
+      "Gijs Wanders"
+    ],
+    {
+      "frac": 0.25022222,
+      "rank": "25"
+    }
+  ],
+  [
+    [
+      "62",
+      "Craig Taylor"
+    ],
+    {
+      "frac": 0.24150109,
+      "rank": "26"
+    }
+  ],
+  [
+    [
+      "61",
+      "Erland Åmot"
+    ],
+    {
+      "frac": 0.23387603,
+      "rank": "27"
+    }
+  ],
+  [
+    [
+      "16",
+      "Michael Williams"
+    ],
+    {
+      "frac": 0.22726562,
+      "rank": "28"
+    }
+  ],
+  [
+    [
+      "26",
+      "Rod Flockhart"
+    ],
+    {
+      "frac": 0.22158848,
+      "rank": "29"
+    }
+  ],
+  [
+    [
+      "42",
+      "Guy Hubbard"
+    ],
+    {
+      "frac": 0.21676318,
+      "rank": "30"
+    }
+  ],
+  [
+    [
+      "36",
+      "Howard Jones"
+    ],
+    {
+      "frac": 0.21270833,
+      "rank": "31"
+    }
+  ],
+  [
+    [
+      "57",
+      "Mikhail Karmazin"
+    ],
+    {
+      "frac": 0.20934253,
+      "rank": "32"
+    }
+  ],
+  [
+    [
+      "18",
+      "Yoko Isomoto"
+    ],
+    {
+      "frac": 0.20658436,
+      "rank": "33"
+    }
+  ],
+  [
+    [
+      "59",
+      "Tony Giammichele"
+    ],
+    {
+      "frac": 0.20435243,
+      "rank": "34"
+    }
+  ],
+  [
+    [
+      "3",
+      "Nils Vesk"
+    ],
+    {
+      "frac": 0.20256533,
+      "rank": "35"
+    }
+  ],
+  [
+    [
+      "12",
+      "Ryosuke Hattori"
+    ],
+    {
+      "frac": 0.20114165,
+      "rank": "36"
+    }
+  ]
+]

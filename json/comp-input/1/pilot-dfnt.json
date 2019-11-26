@@ -1,0 +1,332 @@
+[
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "124.303000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "124.303000 km"
+      }
+    },
+    "pilot": [
+      "14",
+      "Akiko Suzuki"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "124.303000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "124.303000 km"
+      }
+    },
+    "pilot": [
+      "8",
+      "Gordon Rigg"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "124.303000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "124.303000 km"
+      }
+    },
+    "pilot": [
+      "58",
+      "Hossain Tefaili"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "124.303000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "124.303000 km"
+      }
+    },
+    "pilot": [
+      "6",
+      "Jason Kath"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "124.303000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "124.303000 km"
+      }
+    },
+    "pilot": [
+      "22",
+      "Lukas Bader"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "124.303000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "124.303000 km"
+      }
+    },
+    "pilot": [
+      "24",
+      "Michael Hogan"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "124.303000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "124.303000 km"
+      }
+    },
+    "pilot": [
+      "16",
+      "Michael Williams"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "124.303000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "124.303000 km"
+      }
+    },
+    "pilot": [
+      "60",
+      "Peter Adriaans"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "124.303000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "124.303000 km"
+      }
+    },
+    "pilot": [
+      "34",
+      "Phil Schroder"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0.09171138266976663,
+        "awardedMade": "11.400000 km",
+        "awardedTask": "124.303000 km"
+      },
+      "flown": {
+        "awardedFrac": 0.09171138266976663,
+        "awardedMade": "11.400000 km",
+        "awardedTask": "124.303000 km"
+      }
+    },
+    "pilot": [
+      "26",
+      "Rod Flockhart"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2016-01-02T03:00:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0.09244346475949897,
+        "awardedMade": "11.491000 km",
+        "awardedTask": "124.303000 km"
+      },
+      "flown": {
+        "awardedFrac": 0.09244346475949897,
+        "awardedMade": "11.491000 km",
+        "awardedTask": "124.303000 km"
+      }
+    },
+    "pilot": [
+      "4",
+      "Rohan Taylor"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2016-01-02T03:00:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "124.303000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "124.303000 km"
+      }
+    },
+    "pilot": [
+      "12",
+      "Ryosuke Hattori"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "124.303000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "124.303000 km"
+      }
+    },
+    "pilot": [
+      "53",
+      "Stuart Cathcart"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0.3123818411462314,
+        "awardedMade": "38.830000 km",
+        "awardedTask": "124.303000 km"
+      },
+      "flown": {
+        "awardedFrac": 0.3123818411462314,
+        "awardedMade": "38.830000 km",
+        "awardedTask": "124.303000 km"
+      }
+    },
+    "pilot": [
+      "56",
+      "Tony Armstrong"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2016-01-02T02:39:55Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "124.303000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "124.303000 km"
+      }
+    },
+    "pilot": [
+      "13",
+      "Yasuhiro Noma"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  }
+]

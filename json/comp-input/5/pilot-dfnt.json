@@ -1,0 +1,134 @@
+[
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "137.979000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "137.979000 km"
+      }
+    },
+    "pilot": [
+      "10",
+      "Dan Balla"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "137.979000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "137.979000 km"
+      }
+    },
+    "pilot": [
+      "15",
+      "Elia Piccinini"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0.8044702454721371,
+        "awardedMade": "111.000000 km",
+        "awardedTask": "137.979000 km"
+      },
+      "flown": {
+        "awardedFrac": 0.8044702454721371,
+        "awardedMade": "111.000000 km",
+        "awardedTask": "137.979000 km"
+      }
+    },
+    "pilot": [
+      "58",
+      "Hossain Tefaili"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2016-01-08T03:15:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "137.979000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "137.979000 km"
+      }
+    },
+    "pilot": [
+      "16",
+      "Michael Williams"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "137.979000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "137.979000 km"
+      }
+    },
+    "pilot": [
+      "30",
+      "Peter Ebeling"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "137.979000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "137.979000 km"
+      }
+    },
+    "pilot": [
+      "23",
+      "Steve Hogan"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "civilId": "10708",
+  "earthMath": "Haversines",
+  "discipline": "hg",
+  "location": "Forbes, Australia",
+  "to": "2016-01-08",
+  "compName": "2016 Forbes Flatlands",
+  "from": "2016-01-01",
+  "utcOffset": {
+    "timeZoneMinutes": 660
+  },
+  "earth": {
+    "sphere": {
+      "radius": "6371000.0 m"
+    }
+  },
+  "give": {
+    "giveDistance": null,
+    "giveFraction": 0.005
+  },
+  "scoreBack": "900.000 s"
+}

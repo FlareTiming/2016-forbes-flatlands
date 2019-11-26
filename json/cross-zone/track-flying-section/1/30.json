@@ -1,0 +1,20 @@
+{
+  "flyingSeconds": [
+    0,
+    1346
+  ],
+  "loggedSeconds": 1464,
+  "loggedTimes": [
+    "2016-01-02T01:53:22Z",
+    "2016-01-02T02:17:46Z"
+  ],
+  "flyingFixes": [
+    0,
+    1346
+  ],
+  "flyingTimes": [
+    "2016-01-02T01:53:22Z",
+    "2016-01-02T02:15:48Z"
+  ],
+  "loggedFixes": 1465
+}

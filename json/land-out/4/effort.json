@@ -1,0 +1,322 @@
+[
+  [
+    [
+      "49",
+      "Oyvind Ellefsen"
+    ],
+    {
+      "frac": 1,
+      "effort": "366.885000 km"
+    }
+  ],
+  [
+    [
+      "5",
+      "Bruce Wynne"
+    ],
+    {
+      "frac": 0.99247312,
+      "effort": "359.169000 km"
+    }
+  ],
+  [
+    [
+      "43",
+      "Neale Halsall"
+    ],
+    {
+      "frac": 0.98211144,
+      "effort": "353.848000 km"
+    }
+  ],
+  [
+    [
+      "25",
+      "Gary Wright"
+    ],
+    {
+      "frac": 0.95659824,
+      "effort": "345.198000 km"
+    }
+  ],
+  [
+    [
+      "16",
+      "Michael Williams"
+    ],
+    {
+      "frac": 0.90596286,
+      "effort": "332.123000 km"
+    }
+  ],
+  [
+    [
+      "33",
+      "Trent Brown"
+    ],
+    {
+      "frac": 0.85542522,
+      "effort": "316.484000 km"
+    }
+  ],
+  [
+    [
+      "7",
+      "Gijs Wanders"
+    ],
+    {
+      "frac": 0.82121212,
+      "effort": "301.849000 km"
+    }
+  ],
+  [
+    [
+      "62",
+      "Craig Taylor"
+    ],
+    {
+      "frac": 0.78406648,
+      "effort": "284.939000 km"
+    }
+  ],
+  [
+    [
+      "32",
+      "Jon Durand Snr"
+    ],
+    {
+      "frac": 0.77214076,
+      "effort": "280.302000 km"
+    }
+  ],
+  [
+    [
+      "15",
+      "Elia Piccinini"
+    ],
+    {
+      "frac": 0.73264908,
+      "effort": "266.642000 km"
+    }
+  ],
+  [
+    [
+      "39",
+      "Alexandra Serebrennikova"
+    ],
+    {
+      "frac": 0.71212122,
+      "effort": "259.635000 km"
+    }
+  ],
+  [
+    [
+      "37",
+      "Andrew Barnes"
+    ],
+    {
+      "frac": 0.6746823,
+      "effort": "249.949000 km"
+    }
+  ],
+  [
+    [
+      "61",
+      "Erland Åmot"
+    ],
+    {
+      "frac": 0.63431086,
+      "effort": "237.518000 km"
+    }
+  ],
+  [
+    [
+      "19",
+      "Federico Martini"
+    ],
+    {
+      "frac": 0.59589442,
+      "effort": "226.237000 km"
+    }
+  ],
+  [
+    [
+      "30",
+      "Peter Ebeling"
+    ],
+    {
+      "frac": 0.57311828,
+      "effort": "218.880000 km"
+    }
+  ],
+  [
+    [
+      "40",
+      "Vic Hare"
+    ],
+    {
+      "frac": 0.5516129,
+      "effort": "212.692000 km"
+    }
+  ],
+  [
+    [
+      "12",
+      "Ryosuke Hattori"
+    ],
+    {
+      "frac": 0.5281525,
+      "effort": "206.624000 km"
+    }
+  ],
+  [
+    [
+      "27",
+      "Franko Chetcuti"
+    ],
+    {
+      "frac": 0.5,
+      "effort": "200.348000 km"
+    }
+  ],
+  [
+    [
+      "11",
+      "Wayne Thompson"
+    ],
+    {
+      "frac": 0.4489736,
+      "effort": "189.467000 km"
+    }
+  ],
+  [
+    [
+      "59",
+      "Tony Giammichele"
+    ],
+    {
+      "frac": 0.4338221,
+      "effort": "186.322000 km"
+    }
+  ],
+  [
+    [
+      "20",
+      "Anatoly Reyter"
+    ],
+    {
+      "frac": 0.38005866,
+      "effort": "175.131000 km"
+    }
+  ],
+  [
+    [
+      "10",
+      "Dan Balla"
+    ],
+    {
+      "frac": 0.3481916,
+      "effort": "167.725000 km"
+    }
+  ],
+  [
+    [
+      "60",
+      "Peter Adriaans"
+    ],
+    {
+      "frac": 0.2601173,
+      "effort": "135.398000 km"
+    }
+  ],
+  [
+    [
+      "14",
+      "Akiko Suzuki"
+    ],
+    {
+      "frac": 0.24486804,
+      "effort": "121.801000 km"
+    }
+  ],
+  [
+    [
+      "48",
+      "Olav Lien Olsen"
+    ],
+    {
+      "frac": 0.20312806,
+      "effort": "100.190000 km"
+    }
+  ],
+  [
+    [
+      "58",
+      "Hossain Tefaili"
+    ],
+    {
+      "frac": 0.15982404,
+      "effort": "68.613000 km"
+    }
+  ],
+  [
+    [
+      "50",
+      "Thomas Lindal"
+    ],
+    {
+      "frac": 0.15083088,
+      "effort": "62.429000 km"
+    }
+  ],
+  [
+    [
+      "55",
+      "Simon West"
+    ],
+    {
+      "frac": 0.1056696,
+      "effort": "39.323000 km"
+    }
+  ],
+  [
+    [
+      "9",
+      "Peter Burkitt"
+    ],
+    {
+      "frac": 0.07702834,
+      "effort": "26.696000 km"
+    }
+  ],
+  [
+    [
+      "53",
+      "Stuart Cathcart"
+    ],
+    {
+      "frac": 0.04457478,
+      "effort": "10.000000 km"
+    }
+  ],
+  [
+    [
+      "23",
+      "Steve Hogan"
+    ],
+    {
+      "frac": 0.04457478,
+      "effort": "10.000000 km"
+    }
+  ],
+  [
+    [
+      "24",
+      "Michael Hogan"
+    ],
+    {
+      "frac": 0.04457478,
+      "effort": "10.000000 km"
+    }
+  ]
+]

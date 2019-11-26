@@ -1,0 +1,302 @@
+[
+  [
+    [
+      "8",
+      "Gordon Rigg"
+    ],
+    {
+      "frac": 1,
+      "effort": "146.037000 km"
+    }
+  ],
+  [
+    [
+      "17",
+      "Tullio Gervasoni"
+    ],
+    {
+      "frac": 0.96280182,
+      "effort": "128.212000 km"
+    }
+  ],
+  [
+    [
+      "62",
+      "Craig Taylor"
+    ],
+    {
+      "frac": 0.96214922,
+      "effort": "127.930000 km"
+    }
+  ],
+  [
+    [
+      "26",
+      "Rod Flockhart"
+    ],
+    {
+      "frac": 0.9586687,
+      "effort": "127.154000 km"
+    }
+  ],
+  [
+    [
+      "42",
+      "Guy Hubbard"
+    ],
+    {
+      "frac": 0.88949314,
+      "effort": "116.568000 km"
+    }
+  ],
+  [
+    [
+      "30",
+      "Peter Ebeling"
+    ],
+    {
+      "frac": 0.81400914,
+      "effort": "92.223000 km"
+    }
+  ],
+  [
+    [
+      "43",
+      "Neale Halsall"
+    ],
+    {
+      "frac": 0.80835328,
+      "effort": "89.646000 km"
+    }
+  ],
+  [
+    [
+      "38",
+      "Gerolf Heinrichs"
+    ],
+    {
+      "frac": 0.80748314,
+      "effort": "89.493000 km"
+    }
+  ],
+  [
+    [
+      "53",
+      "Stuart Cathcart"
+    ],
+    {
+      "frac": 0.77354796,
+      "effort": "84.218000 km"
+    }
+  ],
+  [
+    [
+      "49",
+      "Oyvind Ellefsen"
+    ],
+    {
+      "frac": 0.77267784,
+      "effort": "84.179000 km"
+    }
+  ],
+  [
+    [
+      "31",
+      "Gavin Myers"
+    ],
+    {
+      "frac": 0.7389602,
+      "effort": "81.022000 km"
+    }
+  ],
+  [
+    [
+      "4",
+      "Rohan Taylor"
+    ],
+    {
+      "frac": 0.724603,
+      "effort": "79.963000 km"
+    }
+  ],
+  [
+    [
+      "10",
+      "Dan Balla"
+    ],
+    {
+      "frac": 0.63193386,
+      "effort": "73.668000 km"
+    }
+  ],
+  [
+    [
+      "48",
+      "Olav Lien Olsen"
+    ],
+    {
+      "frac": 0.60931042,
+      "effort": "72.092000 km"
+    }
+  ],
+  [
+    [
+      "34",
+      "Phil Schroder"
+    ],
+    {
+      "frac": 0.55840766,
+      "effort": "68.176000 km"
+    }
+  ],
+  [
+    [
+      "46",
+      "Steve Blenkinsop"
+    ],
+    {
+      "frac": 0.45616706,
+      "effort": "56.243000 km"
+    }
+  ],
+  [
+    [
+      "61",
+      "Erland Åmot"
+    ],
+    {
+      "frac": 0.43854688,
+      "effort": "52.853000 km"
+    }
+  ],
+  [
+    [
+      "25",
+      "Gary Wright"
+    ],
+    {
+      "frac": 0.37328692,
+      "effort": "38.323000 km"
+    }
+  ],
+  [
+    [
+      "19",
+      "Federico Martini"
+    ],
+    {
+      "frac": 0.36893626,
+      "effort": "37.384000 km"
+    }
+  ],
+  [
+    [
+      "59",
+      "Tony Giammichele"
+    ],
+    {
+      "frac": 0.32804002,
+      "effort": "28.735000 km"
+    }
+  ],
+  [
+    [
+      "18",
+      "Yoko Isomoto"
+    ],
+    {
+      "frac": 0.28105286,
+      "effort": "21.547000 km"
+    }
+  ],
+  [
+    [
+      "50",
+      "Thomas Lindal"
+    ],
+    {
+      "frac": 0.27583206,
+      "effort": "20.835000 km"
+    }
+  ],
+  [
+    [
+      "20",
+      "Anatoly Reyter"
+    ],
+    {
+      "frac": 0.26995866,
+      "effort": "20.108000 km"
+    }
+  ],
+  [
+    [
+      "15",
+      "Elia Piccinini"
+    ],
+    {
+      "frac": 0.2603872,
+      "effort": "19.072000 km"
+    }
+  ],
+  [
+    [
+      "5",
+      "Bruce Wynne"
+    ],
+    {
+      "frac": 0.18207526,
+      "effort": "11.802000 km"
+    }
+  ],
+  [
+    [
+      "27",
+      "Franko Chetcuti"
+    ],
+    {
+      "frac": 0.16750054,
+      "effort": "10.568000 km"
+    }
+  ],
+  [
+    [
+      "23",
+      "Steve Hogan"
+    ],
+    {
+      "frac": 0.16097454,
+      "effort": "10.000000 km"
+    }
+  ],
+  [
+    [
+      "16",
+      "Michael Williams"
+    ],
+    {
+      "frac": 0.16097454,
+      "effort": "10.000000 km"
+    }
+  ],
+  [
+    [
+      "58",
+      "Hossain Tefaili"
+    ],
+    {
+      "frac": 0.0826626,
+      "effort": "5.557000 km"
+    }
+  ],
+  [
+    [
+      "24",
+      "Michael Hogan"
+    ],
+    {
+      "frac": 0.013052,
+      "effort": "0.909000 km"
+    }
+  ]
+]
