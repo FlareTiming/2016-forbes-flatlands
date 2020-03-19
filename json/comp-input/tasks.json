@@ -126,14 +126,17 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": 0,
-      "leadingWeightScaling": 0
+      "arrivalTime": false,
+      "leadingWeightScaling": 0,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": false
     },
     "startGates": [
       "2016-01-02T02:30:00Z",
       "2016-01-02T02:50:00Z",
       "2016-01-02T03:10:00Z"
     ],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -162,6 +165,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "2 s",
       "earliest": "600 s"
     }
@@ -257,10 +261,13 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": 0,
-      "leadingWeightScaling": 0
+      "arrivalTime": false,
+      "leadingWeightScaling": 0,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": false
     },
     "startGates": [],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -281,6 +288,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "2 s",
       "earliest": "600 s"
     }
@@ -358,10 +366,13 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": 0,
-      "leadingWeightScaling": 0
+      "arrivalTime": false,
+      "leadingWeightScaling": 0,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": false
     },
     "startGates": [],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -378,6 +389,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "2 s",
       "earliest": "600 s"
     }
@@ -455,10 +467,13 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": 0,
-      "leadingWeightScaling": 0
+      "arrivalTime": false,
+      "leadingWeightScaling": 0,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": false
     },
     "startGates": [],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -467,6 +482,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "2 s",
       "earliest": "600 s"
     }
@@ -562,8 +578,10 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": true
     },
     "startGates": [
       "2016-01-08T03:15:00Z",
@@ -571,6 +589,7 @@
       "2016-01-08T03:45:00Z",
       "2016-01-08T04:00:00Z"
     ],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -591,6 +610,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "2 s",
       "earliest": "600 s"
     }
@@ -722,8 +742,10 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": true
     },
     "startGates": [
       "2016-01-09T02:30:00Z",
@@ -731,6 +753,7 @@
       "2016-01-09T03:00:00Z",
       "2016-01-09T03:15:00Z"
     ],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -759,6 +782,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "2 s",
       "earliest": "600 s"
     }

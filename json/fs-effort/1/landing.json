@@ -10,7 +10,7 @@
     ],
     "sumOf": 1710
   },
-  "bestDistance": null,
+  "bestDistance": "38.830000 km",
   "difficulty": [
     {
       "endChunk": "10.1 km",
@@ -20,6 +20,18 @@
       "frac": 0.34035088,
       "downers": [
         [
+          "14",
+          "Akiko Suzuki"
+        ],
+        [
+          "20",
+          "Anatoly Reyter"
+        ],
+        [
+          "37",
+          "Andrew Barnes"
+        ],
+        [
           "10",
           "Dan Balla"
         ],
@@ -28,40 +40,20 @@
           "Elia Piccinini"
         ],
         [
-          "17",
-          "Tullio Gervasoni"
+          "61",
+          "Erland Åmot"
         ],
         [
-          "18",
-          "Yoko Isomoto"
+          "27",
+          "Franko Chetcuti"
         ],
         [
-          "23",
-          "Steve Hogan"
+          "7",
+          "Gijs Wanders"
         ],
         [
-          "33",
-          "Trent Brown"
-        ],
-        [
-          "35",
-          "Justinas Pleikys"
-        ],
-        [
-          "37",
-          "Andrew Barnes"
-        ],
-        [
-          "46",
-          "Steve Blenkinsop"
-        ],
-        [
-          "55",
-          "Simon West"
-        ],
-        [
-          "59",
-          "Tony Giammichele"
+          "8",
+          "Gordon Rigg"
         ],
         [
           "58",
@@ -72,72 +64,80 @@
           "Jason Kath"
         ],
         [
-          "60",
-          "Peter Adriaans"
-        ],
-        [
-          "8",
-          "Gordon Rigg"
-        ],
-        [
-          "12",
-          "Ryosuke Hattori"
-        ],
-        [
-          "13",
-          "Yasuhiro Noma"
-        ],
-        [
-          "14",
-          "Akiko Suzuki"
-        ],
-        [
-          "16",
-          "Michael Williams"
-        ],
-        [
-          "24",
-          "Michael Hogan"
+          "35",
+          "Justinas Pleikys"
         ],
         [
           "22",
           "Lukas Bader"
         ],
         [
-          "34",
-          "Phil Schroder"
+          "24",
+          "Michael Hogan"
         ],
         [
-          "53",
-          "Stuart Cathcart"
+          "16",
+          "Michael Williams"
         ],
         [
-          "61",
-          "Erland Åmot"
+          "57",
+          "Mikhail Karmazin"
+        ],
+        [
+          "60",
+          "Peter Adriaans"
         ],
         [
           "30",
           "Peter Ebeling"
         ],
         [
-          "27",
-          "Franko Chetcuti"
+          "34",
+          "Phil Schroder"
+        ],
+        [
+          "12",
+          "Ryosuke Hattori"
+        ],
+        [
+          "55",
+          "Simon West"
+        ],
+        [
+          "46",
+          "Steve Blenkinsop"
+        ],
+        [
+          "23",
+          "Steve Hogan"
+        ],
+        [
+          "53",
+          "Stuart Cathcart"
         ],
         [
           "50",
           "Thomas Lindal"
         ],
         [
-          "7",
-          "Gijs Wanders"
+          "59",
+          "Tony Giammichele"
         ],
         [
-          "20",
-          "Anatoly Reyter"
+          "33",
+          "Trent Brown"
         ],
         [
-          "57",
-          "Mikhail Karmazin"
+          "17",
+          "Tullio Gervasoni"
+        ],
+        [
+          "13",
+          "Yasuhiro Noma"
+        ],
+        [
+          "18",
+          "Yoko Isomoto"
         ]
       ],
       "downward": 14,
@@ -322,25 +322,25 @@
       "frac": 0.39005848,
       "downers": [
         [
+          "26",
+          "Rod Flockhart"
+        ],
+        [
           "49",
           "Oyvind Ellefsen"
         ],
         [
           "4",
           "Rohan Taylor"
-        ],
-        [
-          "26",
-          "Rod Flockhart"
         ]
       ],
       "downward": 5,
       "rel": 0.00233918,
       "endAhead": "14.4 km",
       "downs": [
+        "11.400 km",
         "11.478 km",
-        "11.491 km",
-        "11.400 km"
+        "11.491 km"
       ]
     },
     {
@@ -351,20 +351,20 @@
       "frac": 0.39181287,
       "downers": [
         [
-          "47",
-          "Olav Opsanger"
-        ],
-        [
           "43",
           "Neale Halsall"
+        ],
+        [
+          "47",
+          "Olav Opsanger"
         ]
       ],
       "downward": 4,
       "rel": 0.00175439,
       "endAhead": "14.5 km",
       "downs": [
-        "11.582 km",
-        "11.520 km"
+        "11.520 km",
+        "11.582 km"
       ]
     },
     {
@@ -508,20 +508,20 @@
       "frac": 0.46608187,
       "downers": [
         [
-          "1",
-          "Fredy Bircher"
-        ],
-        [
           "42",
           "Guy Hubbard"
+        ],
+        [
+          "1",
+          "Fredy Bircher"
         ]
       ],
       "downward": 2,
       "rel": 0.00116959,
       "endAhead": "25.1 km",
       "downs": [
-        "22.185 km",
-        "22.177 km"
+        "22.177 km",
+        "22.185 km"
       ]
     },
     {
@@ -621,6 +621,6 @@
     }
   ],
   "lookahead": 30,
-  "minDistance": "0.000 km",
+  "minDistance": "10.000 km",
   "landout": 57
 }

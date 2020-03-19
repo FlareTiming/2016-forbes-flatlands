@@ -141,38 +141,8 @@
   ],
   [
     [
-      "23",
-      "Steve Hogan"
-    ],
-    {
-      "frac": 0.18421852,
-      "effort": "10.000000 km"
-    }
-  ],
-  [
-    [
-      "24",
-      "Michael Hogan"
-    ],
-    {
-      "frac": 0.18421852,
-      "effort": "10.000000 km"
-    }
-  ],
-  [
-    [
-      "58",
-      "Hossain Tefaili"
-    ],
-    {
-      "frac": 0.18421852,
-      "effort": "10.000000 km"
-    }
-  ],
-  [
-    [
-      "38",
-      "Gerolf Heinrichs"
+      "39",
+      "Alexandra Serebrennikova"
     ],
     {
       "frac": 0.18421852,
@@ -191,8 +161,38 @@
   ],
   [
     [
-      "39",
-      "Alexandra Serebrennikova"
+      "38",
+      "Gerolf Heinrichs"
+    ],
+    {
+      "frac": 0.18421852,
+      "effort": "10.000000 km"
+    }
+  ],
+  [
+    [
+      "58",
+      "Hossain Tefaili"
+    ],
+    {
+      "frac": 0.18421852,
+      "effort": "10.000000 km"
+    }
+  ],
+  [
+    [
+      "24",
+      "Michael Hogan"
+    ],
+    {
+      "frac": 0.18421852,
+      "effort": "10.000000 km"
+    }
+  ],
+  [
+    [
+      "23",
+      "Steve Hogan"
     ],
     {
       "frac": 0.18421852,

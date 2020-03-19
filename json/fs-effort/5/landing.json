@@ -10,7 +10,7 @@
     ],
     "sumOf": 3265
   },
-  "bestDistance": null,
+  "bestDistance": "137.979000 km",
   "difficulty": [
     {
       "endChunk": "10.1 km",
@@ -24,20 +24,20 @@
           "Dan Balla"
         ],
         [
-          "30",
-          "Peter Ebeling"
-        ],
-        [
-          "23",
-          "Steve Hogan"
-        ],
-        [
           "15",
           "Elia Piccinini"
         ],
         [
           "16",
           "Michael Williams"
+        ],
+        [
+          "30",
+          "Peter Ebeling"
+        ],
+        [
+          "23",
+          "Steve Hogan"
         ]
       ],
       "downward": 0,
@@ -243,6 +243,6 @@
     }
   ],
   "lookahead": 276,
-  "minDistance": "0.000 km",
+  "minDistance": "10.000 km",
   "landout": 15
 }

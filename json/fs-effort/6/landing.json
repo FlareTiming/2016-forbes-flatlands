@@ -10,7 +10,7 @@
     ],
     "sumOf": 3395
   },
-  "bestDistance": null,
+  "bestDistance": "134.323000 km",
   "difficulty": [
     {
       "endChunk": "10.1 km",
@@ -20,20 +20,12 @@
       "frac": 0.10412371,
       "downers": [
         [
-          "35",
-          "Justinas Pleikys"
+          "39",
+          "Alexandra Serebrennikova"
         ],
         [
           "20",
           "Anatoly Reyter"
-        ],
-        [
-          "24",
-          "Michael Hogan"
-        ],
-        [
-          "39",
-          "Alexandra Serebrennikova"
         ],
         [
           "38",
@@ -42,6 +34,14 @@
         [
           "58",
           "Hossain Tefaili"
+        ],
+        [
+          "35",
+          "Justinas Pleikys"
+        ],
+        [
+          "24",
+          "Michael Hogan"
         ],
         [
           "23",
@@ -329,6 +329,6 @@
     }
   ],
   "lookahead": 192,
-  "minDistance": "0.000 km",
+  "minDistance": "10.000 km",
   "landout": 21
 }

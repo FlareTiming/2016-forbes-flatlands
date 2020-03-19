@@ -10,7 +10,7 @@
     ],
     "sumOf": 4738
   },
-  "bestDistance": null,
+  "bestDistance": "170.728000 km",
   "difficulty": [
     {
       "endChunk": "10.1 km",
@@ -20,20 +20,20 @@
       "frac": 0.090439,
       "downers": [
         [
-          "24",
-          "Michael Hogan"
-        ],
-        [
-          "23",
-          "Steve Hogan"
-        ],
-        [
           "58",
           "Hossain Tefaili"
         ],
         [
+          "24",
+          "Michael Hogan"
+        ],
+        [
           "16",
           "Michael Williams"
+        ],
+        [
+          "23",
+          "Steve Hogan"
         ]
       ],
       "downward": 6,
@@ -491,20 +491,20 @@
       "frac": 0.48195441,
       "downers": [
         [
-          "17",
-          "Tullio Gervasoni"
-        ],
-        [
           "62",
           "Craig Taylor"
+        ],
+        [
+          "17",
+          "Tullio Gervasoni"
         ]
       ],
       "downward": 0,
       "rel": 0.00021106,
       "endAhead": "145.4 km",
       "downs": [
-        "128.398 km",
-        "128.300 km"
+        "128.300 km",
+        "128.398 km"
       ]
     },
     {
@@ -528,6 +528,6 @@
     }
   ],
   "lookahead": 171,
-  "minDistance": "0.000 km",
+  "minDistance": "10.000 km",
   "landout": 30
 }
